@@ -1,2 +1,3 @@
 learn git
  is important
+It is important to learn git
